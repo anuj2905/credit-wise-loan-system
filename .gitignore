@@ -1,0 +1,18 @@
+# Ignore Jupyter checkpoint folder
+.ipynb_checkpoints/
+
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
+*.pdf
+data/
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
